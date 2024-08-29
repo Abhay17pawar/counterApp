@@ -1,0 +1,51 @@
+.child{
+  background-color: black;
+}
+.child{
+  width : 400px;
+  height: 350px;
+  border-radius: 20px;
+}
+
+.heading{
+  color: aliceblue;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.parent{
+  background-color:  #f8ebff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.button1{
+  margin-left: 40px;
+  width: 150px;
+  height: 50px;
+  font-weight: bolder;
+  background-color: #f8ebff;
+  border-radius: 17px;
+}
+
+.button2{
+  margin-top: 42px;
+  margin-left: 24px;
+  width: 150px;
+  height: 50px;
+  font-weight: bolder;
+  background-color: #f8ebff;
+  border-radius: 17px;
+}
+
+.button3{
+  margin-top : 35px; 
+  margin-left: 125px;
+  width: 150px;
+  height: 50px;
+  font-weight: bolder;  
+  background-color: #f8ebff;
+  border-radius: 17px;
+}
